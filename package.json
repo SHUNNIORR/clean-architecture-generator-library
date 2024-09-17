@@ -1,0 +1,15 @@
+{
+  "name": "clean-architecture-generator",
+  "version": "1.0.2",
+  "main": "bin/index.js",
+  "bin": {
+    "clean-arq-schematics": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "Jorge Omar Perez",
+  "license": "MIT",
+  "description": "CLI tool to generate view-models and clean architecture templates",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
+}
